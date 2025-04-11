@@ -69,7 +69,6 @@ public class CatMusicPlayer {
                     return;
                 }
 
-                // An jedem Spielerstandort abspielen = global hörbar
                 for (Player p : Bukkit.getOnlinePlayers()) {
                     p.playSound(p.getLocation(), Sound.MUSIC_DISC_CAT, SoundCategory.RECORDS, 100.0f, 1.0f);
                 }

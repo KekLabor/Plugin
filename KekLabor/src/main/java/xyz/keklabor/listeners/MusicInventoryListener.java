@@ -1,6 +1,5 @@
 package xyz.keklabor.listeners;
 
-import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -34,7 +33,6 @@ public class MusicInventoryListener implements Listener {
         if (event.getSlot() == 4) {
             musicPlayer.toggle(player);
             player.closeInventory();
-            //Bukkit.dispatchCommand(player, "music"); // GUI neu öffnen
         }
     }
 }

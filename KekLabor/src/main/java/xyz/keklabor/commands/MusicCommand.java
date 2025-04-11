@@ -37,7 +37,7 @@ public class MusicCommand implements CommandExecutor, Listener {
         ItemStack item = new ItemStack(isPlaying ? Material.LIME_DYE : Material.RED_DYE);
         ItemMeta meta = item.getItemMeta();
         meta.setDisplayName(isPlaying ? "§aMusic is Enabled" : "§cMusic is Disabled");
-        meta.setLore(Collections.singletonList("§7Click to toggle"));
+        meta.setLore(Collections.singletonList("§7Click to toggle music"));
         item.setItemMeta(meta);
 
         gui.setItem(4, item);

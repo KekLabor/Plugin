@@ -16,18 +16,18 @@ public final class KekLabor extends JavaPlugin {
     @Override
     public void onEnable() {
         musicPlayer = new CatMusicPlayer(this);
-        getLogger().info("[KekLabor Music-Loop] Started successfully");
+        getLogger().info("[Music-Loop] Started successfully");
 
         registerCommands();
         registerListeners();
 
-        getLogger().info("[KekLabor] Started successfully");
+        getLogger().info("Started successfully");
     }
 
     @Override
     public void onDisable() {
-        getLogger().info("[KekLabor] Shut down successfully");
-        getLogger().info("[KekLabor Music-Loop] Shut down successfully");
+        getLogger().info("Shut down successfully");
+        getLogger().info("[Music-Loop] Shut down successfully");
 
     }
 
