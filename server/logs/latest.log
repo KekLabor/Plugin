@@ -1,0 +1,100 @@
+[21:23:18] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.2+7-58; Oracle Corporation null) on Windows 10 10.0 (amd64)
+[21:23:18] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.4-2413-HEAD@65b1288 (2025-04-07T20:52:45Z) for Minecraft 1.21.4
+[21:23:19] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:23:19] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins\KekLabor-1.0.jar'...
+[21:23:19] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins\KekLabor-1.0.jar' in 214ms.
+[21:23:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[21:23:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - KekLabor (1.0)
+[21:23:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:23:25] [ServerMain/INFO]: Loaded 1370 recipes
+[21:23:25] [ServerMain/INFO]: Loaded 1481 advancements
+[21:23:25] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[21:23:25] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 144,4ms
+[21:23:25] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:23:25] [Server thread/INFO]: Loading properties
+[21:23:25] [Server thread/INFO]: This server is running Purpur version 1.21.4-2413-HEAD@65b1288 (2025-04-07T20:52:45Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[21:23:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:23:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:23:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:23:26] [Server thread/INFO]: [MoonriseCommon] Paper is using 5 worker threads, 1 I/O threads
+[21:23:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:23:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:23:27] [Server thread/INFO]: Generating keypair
+[21:23:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:23:27] [Server thread/INFO]: Using default channel type
+[21:23:27] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[21:23:27] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[21:23:27] [Server thread/INFO]: [KekLabor] Loading server plugin KekLabor v1.0
+[21:23:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:23:27] [Server thread/INFO]: Preparing level "world"
+[21:23:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:23:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:28] [Server thread/INFO]: Preparing spawn area: 2%
+[21:23:28] [Server thread/INFO]: Time elapsed: 730 ms
+[21:23:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:23:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:28] [Server thread/INFO]: Time elapsed: 124 ms
+[21:23:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:23:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:28] [Server thread/INFO]: Time elapsed: 136 ms
+[21:23:28] [Server thread/INFO]: [KekLabor] Enabling KekLabor v1.0
+[21:23:28] [Server thread/INFO]: [KekLabor] [KekLabor Music-Loop] Started successfully
+[21:23:28] [Server thread/INFO]: [KekLabor] [KekLabor] Started successfully
+[21:23:29] [Server thread/INFO]: [spark] Starting background profiler...
+[21:23:29] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
+[21:23:29] [Server thread/INFO]: Done preparing level "world" (1.906s)
+[21:23:29] [Server thread/INFO]: Running delayed init tasks
+[21:23:29] [Server thread/INFO]: Done (11.295s)! For help, type "help"
+[21:24:02] [User Authenticator #0/INFO]: UUID of player WinniePat is 4d537abc-e205-4258-b289-ac70d814b5db
+[21:24:02] [Server thread/INFO]: [KekLabor] [KekLabor Music-Loop] Started Music Loop for WinniePat
+[21:24:02] [Server thread/INFO]: WinniePat joined the game
+[21:24:02] [Server thread/INFO]: WinniePat[/127.0.0.1:55512] logged in with entity id 26 at ([world]-14.809792291532244, 76.0, -21.886382115418595)
+[21:24:06] [Server thread/INFO]: WinniePat issued server command: /music
+[21:24:09] [Server thread/INFO]: WinniePat issued server command: /music
+[21:24:41] [Server thread/INFO]: WinniePat issued server command: /music
+[21:24:43] [Server thread/INFO]: WinniePat issued server command: /music
+[21:25:34] [Server thread/INFO]: WinniePat has made the advancement [Monster Hunter]
+[21:25:43] [Server thread/INFO]: WinniePat issued server command: /spawn
+[21:25:43] [Server thread/INFO]: Teleported WinniePat to 0.500000, 64.000000, 0.500000
+[21:26:59] [Server thread/INFO]: WinniePat issued server command: /music
+[21:27:01] [Server thread/INFO]: WinniePat issued server command: /music
+[21:27:25] [Server thread/INFO]: WinniePat issued server command: /stop
+[21:27:25] [Server thread/INFO]: [WinniePat: Stopping the server]
+[21:27:25] [Server thread/INFO]: Stopping server
+[21:27:25] [Server thread/INFO]: [KekLabor] Disabling KekLabor v1.0
+[21:27:25] [Server thread/INFO]: [KekLabor] [KekLabor] Shut down successfully
+[21:27:25] [Server thread/INFO]: [KekLabor] [KekLabor Music-Loop] Shut down successfully
+[21:27:25] [Server thread/INFO]: Saving players
+[21:27:25] [Server thread/INFO]: WinniePat lost connection: Server closed
+[21:27:26] [Server thread/INFO]: WinniePat left the game
+[21:27:26] [Server thread/INFO]: Saving worlds
+[21:27:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:27:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:27:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:27:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:27:27] [Server thread/INFO]: [ChunkHolderManager] Saved 1086 block chunks, 875 entity chunks, 0 poi chunks in world 'world' in 1,57s
+[21:27:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:27:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:27:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:27:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:27:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:27:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0,06s
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:27:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0,20s
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:27:28] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:27:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:27:28] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:27:28] [Server thread/INFO]: All I/O tasks to complete
+[21:27:28] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:27:28] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

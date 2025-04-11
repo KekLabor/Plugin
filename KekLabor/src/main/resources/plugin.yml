@@ -1,0 +1,7 @@
+name: KekLabor
+version: '${project.version}'
+main: xyz.keklabor.KekLabor
+api-version: '1.21'
+commands:
+  spawn:
+  music:

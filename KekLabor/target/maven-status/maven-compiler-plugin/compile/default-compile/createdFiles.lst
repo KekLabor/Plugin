@@ -1,0 +1,7 @@
+xyz\keklabor\KekLabor.class
+xyz\keklabor\commands\SpawnCommand.class
+xyz\keklabor\listeners\CatMusicListener.class
+xyz\keklabor\commands\MusicCommand.class
+xyz\keklabor\music\CatMusicPlayer.class
+xyz\keklabor\music\CatMusicPlayer$1.class
+xyz\keklabor\listeners\MusicInventoryListener.class
